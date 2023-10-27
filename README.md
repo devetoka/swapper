@@ -1,6 +1,8 @@
 # memory-teaser
 
+simple swapping game
 
+live at [VSCode](https://seashell-app-m5k3f.ondigitalocean.app/)
 
 ## Project Setup
 
@@ -18,10 +20,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
