@@ -2,7 +2,7 @@
 
 simple swapping game
 
-live at [here](https://seashell-app-m5k3f.ondigitalocean.app/)
+live at [here](https://swapper.oghenerie.tech/)
 
 ## Project Setup
 
