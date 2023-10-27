@@ -2,7 +2,7 @@
 
 simple swapping game
 
-live at [here](https://swapper.oghenerie.tech/)
+live at [here](https://swapper.etokaoghenerie.tech/)
 
 ## Project Setup
 
